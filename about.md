@@ -6,7 +6,7 @@ permalink: /about/
 
 Just a fellow software developer.
 
-I like videogames, game development and rationality ([HPMOR](http://www.hpmor.com/) FTW!)
+I like videogames, software/game development and rationality ([HPMOR](http://www.hpmor.com/) FTW!)
 
 ### Contact me
 
