@@ -10,12 +10,12 @@ Hello world!
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = 'https://esin88.github.io'
+      this.page.url = 'https://esin88.github.io/Hello-World/'
       this.page.identifier = '2018-01-11-Hello-World.md'
     };
     (function() { // DON'T EDIT BELOW THIS LINE
       var d = document, s = d.createElement('script');
-      s.src = 'https://EXAMPLE.disqus.com/embed.js';
+      s.src = 'https://esin88.disqus.com/embed.js';
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
     })();
