@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a fellow software developer.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I like Java, videogames / game development and rationality ([HPMOR] (http://www.hpmor.com/) FTW!)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shubin.egor@gmail.com](mailto:shubin.egor@gmail.com)
