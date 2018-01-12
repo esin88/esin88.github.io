@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Just a fellow software developer.
+I'm just a fellow software developer.
 
 I like videogames, software/game development and rationality ([HPMOR](http://www.hpmor.com/) FTW!)
 
