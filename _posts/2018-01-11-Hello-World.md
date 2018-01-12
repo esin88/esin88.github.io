@@ -10,8 +10,8 @@ Hello world!
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = "https://esin88.github.io/Hello-World/"
-      this.page.identifier = "https://esin88.github.io/Hello-World/"
+      this.page.url = 'https://esin88.github.io'
+      this.page.identifier = '2018-01-11-Hello-World.md'
     };
     (function() { // DON'T EDIT BELOW THIS LINE
       var d = document, s = d.createElement('script');
